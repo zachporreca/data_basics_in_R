@@ -6,11 +6,12 @@ Hey guys, it was fun getting to trying to show you around some of the basic R st
 The data file I was using are all here in this repository.
 
 To replicate what we went over today you will need to do the following:
-   1) Download the main data files from this repository and set those as your working directory
-   2) Installl the following packages for R:
+   1) Download the main data files and code from this repository and set the folder you put those in as your working directory
+   2) Download the incident level data file from the google drive link: [here](https://drive.google.com/file/d/177uWCFInciQCbtTMkwNldHhgGNhN1XPS/view?usp=sharing)
+   3) Install the following packages for R:
         1) haven
         2) fixest
-   3) The code is commented out so you are able to see what each section is intended to do/ what question it is answering
+   4) The code is commented out so you are able to see what each section is intended to do/ what question it is answering
 
 Packages for R can be installed as follows:
     1) In RStudio's top menu choose "Tools"
