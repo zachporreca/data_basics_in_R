@@ -8,8 +8,8 @@ The data file I was using are all here in this repository.
 To replicate what we went over today you will need to do the following:
    1) Download the main data files from this repository and set those as your working directory
    2) Installl the following packages for R:
-        1)haven
-        2)fixest
+        1) haven
+        2) fixest
    3) The code is commented out so you are able to see what each section is intended to do/ what question it is answering
 
 Packages for R can be installed as follows:
@@ -20,3 +20,5 @@ Packages for R can be installed as follows:
     5) Click install
     
 Play around a bit, and try replicating some of the code on your own data!
+
+As a note, the panel data used here is from Abrams (2012) paper on criminal deterrance and the incident-level microdata utilized is taken from Philadelphia's Open Data portal. It is the incident-level crime data for the year 2019.
